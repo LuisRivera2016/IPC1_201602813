@@ -1,0 +1,6 @@
+echo "# IPC1_201602813" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git remote add origin https://github.com/LuisRivera2016/IPC1_201602813.git
+git push -u origin master
